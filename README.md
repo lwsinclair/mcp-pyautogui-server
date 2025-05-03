@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hetaobackend-mcp-pyautogui-server-badge.png)](https://mseep.ai/app/hetaobackend-mcp-pyautogui-server)
+
 # mcp-pyautogui-server
 
 [![smithery badge](https://smithery.ai/badge/@hetaoBackend/mcp-pyautogui-server)](https://smithery.ai/server/@hetaoBackend/mcp-pyautogui-server)
